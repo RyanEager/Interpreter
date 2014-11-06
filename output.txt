@@ -1,0 +1,121 @@
+run:
+x
+[ y z w ]
+c
+a0
+b1
+c2
+d3
+[ a4 b4 ]
+[ a5 b5 c5 ]
+a6
+[ b7 ]
+x5
+[ b6 ]
+[ a7 b7 ]
+[ b8 b9 ]
+[ x1 x2 x3 ]
+[ xy2 xy3 ]
+[ xy4 xy4 ]
+[ xy6 ]
+
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+
+ERROR!!!
+Error: user-defined functions with arguments
+Error: Illegal number of arguments
+Error: Illegal number of arguments
+Error: Empty List
+Error: Empty List
+Error: Empty List
+Error: Empty List
+Error: Illegal number of arguments
+Error: Illegal number of arguments
+Error: Illegal number of arguments
+Error: Illegal number of arguments
+Error: Illegal number of arguments
+Error: Illegal type of arguments, must be Symbol then List
+Error: Illegal type of arguments, must be Symbol then List
+Error: Illegal type of arguments, must be Symbol then List
+Error: Illegal number of arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+
+input string cannot be null
+end-of-input found, Expr expected
+illegal token: 3
+end-of-input found, ( expected
+extra tokens beginning with B after parsed input string
+d00 found, ( expected
+( found, Expr expected
+) found, ] expected
+d1 found, ] expected
+end-of-input found, ] expected
+illegal token: 1776
+end-of-input found, ) expected
+[ found, ( expected
+] found, ) expected
+extra tokens beginning with ) after parsed input string
+extra tokens beginning with ( after parsed input string
+end-of-input found, Expr expected
+end-of-input found, Expr expected
+end-of-input found, Expr expected
+extra tokens beginning with u7 after parsed input string
+) found, Expr expected
+end-of-input found, Expr expected
+) found, Expr expected
+end-of-input found, Expr expected
+end-of-input found, UserFName expected
+V0 found, UserFName expected
+define found, UserFName expected
+car found, UserFName expected
+W found, ( expected
+w found, ) expected
+] found, ) expected
+v found, ) expected
+[ found, ( expected
+v6 found, ) expected
+end-of-input found, Expr expected
+( found, Expr expected
+extra tokens beginning with w9 after parsed input string
+v9 found, ( expected
+) found, ( expected
+( found, Expr expected
+
+[ r2 q2 ]
+Error: Empty List
+Error: Empty List
+Error: user-defined functions with arguments
+
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+Error: user-defined functions with arguments
+BUILD SUCCESSFUL (total time: 0 seconds)
